@@ -14,9 +14,9 @@ export default function Home() {
           <div class="hero-content">
             <div class="max-w-3xl min-w-fit text-center">
               <h1 class="text-3xl font-bold text-center">
-                Hi there! My name is Phúc (Scott) Nguyễn
+                Hi there! My name is Phúc (Scott) Nguyễn.
               </h1>
-              <p class="py-6 text-left">
+              <p class="max-w-xl py-8 text-left">
                 This is a fun little expriment that I want to create, by
                 practicing and using a few specific frameworks and libraries -
                 as a <b>Front-end Web developer</b>. Thank you so much for
@@ -24,6 +24,9 @@ export default function Home() {
               </p>
               <button class="btn btn-secondary btn-outline">
                 Read my blogs
+              </button>
+              <button class="ml-6 btn btn-secondary btn-outline">
+                What's under the hood
               </button>
             </div>
           </div>
