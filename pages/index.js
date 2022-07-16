@@ -20,7 +20,7 @@ export default function Home() {
                 This is a fun little expriment that I want to create, by
                 practicing and using a few specific frameworks and libraries -
                 as a <b>Front-end Web developer</b>. Thank you so much for
-                stopping by!
+                visting!
               </p>
               <button class="btn btn-secondary btn-outline">
                 Read my blogs
