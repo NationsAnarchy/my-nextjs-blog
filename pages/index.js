@@ -12,14 +12,19 @@ export default function Home() {
       <main>
         <div class="hero min-h-screen">
           <div class="hero-content">
-            <div class="max-w-lg text-center">
-              <h1 class="text-5xl font-bold text-left">Welcome to my blog!</h1>
-              <p class="py-7 text-left">
-                Provident cupiditate voluptatem et in. Quaerat fugiat ut
-                assumenda excepturi exercitationem quasi. In deleniti eaque aut
-                repudiandae et a id nisi.
+            <div class="max-w-3xl min-w-fit text-center">
+              <h1 class="text-3xl font-bold text-center">
+                Hi there! My name is Phúc (Scott) Nguyễn
+              </h1>
+              <p class="py-6 text-left">
+                This is a fun little expriment that I want to create, by
+                practicing and using a few specific frameworks and libraries -
+                as a <b>Front-end Web developer</b>. Thank you so much for
+                stopping by!
               </p>
-              <button class="btn btn-outline">Get Started</button>
+              <button class="btn btn-secondary btn-outline">
+                Read my blogs
+              </button>
             </div>
           </div>
         </div>
